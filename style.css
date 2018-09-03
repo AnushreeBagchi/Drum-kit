@@ -14,14 +14,14 @@ html{
 .key {
    
     font-size: 2em;
-    overflow-wrap: break-word;  
     justify-content : center;
-
+    margin: auto;
 }
 
 .node{
     font-size:  0.75em;
-    justify-content : center;
+    margin: auto;
+    color: #2000ff;
 }
 
 .block{
@@ -31,10 +31,14 @@ html{
     display: flex;
     flex-direction: column;
     margin : 0.5em;
-    justify-content: center;
+    
 }
 .parent-block{
     display: flex;    
     justify-content: center;
     margin-top: 10em;
+}
+
+.clicked{
+    border: 5px solid  yellowgreen;
 }
