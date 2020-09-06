@@ -11,7 +11,7 @@ Take this for a spin at [https://anushreebagchi.github.io/Drum-kit/](https://anu
 
 Here is a sample gif. Of course this also has sound that I couldn't capture in the gif!
 
-![alt text](https://media.giphy.com/media/2uIhZgFy3EpeLhObiQ/giphy.gif "Image of the project")
+![alt text](https://media.giphy.com/media/lQ14kV1OD56uUwNCYS/giphy.gif "Image of the project")
 
 Installation: Clone or download this repo and simply open the index.html file and enjoy!
 
